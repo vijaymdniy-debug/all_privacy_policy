@@ -1,0 +1,82 @@
+{
+  "categories": [
+    {
+      "id": "ai_fantasy",
+      "emoji": "🔥",
+      "names": { "en": "AI Fantasy", "hi": "एआई फंतासी" },
+      "styles": [
+        {
+          "titles": { "en": "AI Avatar", "hi": "एआई अवतार" },
+          "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500&auto=format",
+          "prompts": { "en": "A professional AI avatar portrait, digital art style.", "hi": "एक पेशेवर एआई अवतार चित्र, डिजिटल कला शैली।" }
+        },
+        {
+          "titles": { "en": "Movie Poster", "hi": "मूवी पोस्टर" },
+          "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=500&auto=format",
+          "prompts": { "en": "Cinematic movie poster style, dramatic lighting.", "hi": "सिनेमैटिक मूवी पोस्टर शैली, नाटकीय प्रकाश व्यवस्था।" }
+        },
+        {
+          "titles": { "en": "Fashion Magazine", "hi": "फैशन पत्रिका" },
+          "image": "https://images.unsplash.com/photo-1537832816519-689ad163238b?w=500&auto=format",
+          "prompts": { "en": "High-end fashion magazine cover style.", "hi": "हाई-एंड फैशन पत्रिका कवर शैली।" }
+        },
+        {
+          "titles": { "en": "Supermodel", "hi": "सुपरमॉडल" },
+          "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=500&auto=format",
+          "prompts": { "en": "A professional supermodel runway look.", "hi": "एक पेशेवर सुपरमॉडल रनवे लुक।" }
+        }
+      ]
+    },
+    {
+      "id": "anime",
+      "emoji": "🔥",
+      "names": { "en": "Anime", "hi": "एनीमे" },
+      "styles": [
+        {
+          "titles": { "en": "Anime Portrait", "hi": "एनीमे पोर्ट्रेट" },
+          "image": "https://images.unsplash.com/photo-1578632738981-43c0ad3c5011?w=500&auto=format",
+          "prompts": { "en": "Vibrant anime style character portrait.", "hi": "जीवंत एनीमे शैली चरित्र चित्र।" }
+        },
+        {
+          "titles": { "en": "Studio Ghibli", "hi": "स्टूडियो घिबली" },
+          "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=500&auto=format",
+          "prompts": { "en": "Soft hand-drawn Studio Ghibli background and character style.", "hi": "सॉफ्ट हाथ से तैयार किया गया स्टूडियो घिबली बैकग्राउंड और कैरेक्टर स्टाइल।" }
+        }
+      ]
+    },
+    {
+      "id": "wedding",
+      "emoji": "❤️",
+      "names": { "en": "Wedding", "hi": "शादी" },
+      "styles": [
+        {
+          "titles": { "en": "Royal Wedding", "hi": "शाही शादी" },
+          "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=500&auto=format",
+          "prompts": { "en": "A grand royal wedding theme with ethnic wear.", "hi": "जातीय पहनावे के साथ एक भव्य शाही शादी का विषय।" }
+        },
+        {
+          "titles": { "en": "Beach Wedding", "hi": "बीच वेडिंग" },
+          "image": "https://images.unsplash.com/photo-1544124499-58912cbddaad?w=500&auto=format",
+          "prompts": { "en": "Romantic beach wedding setting, sunset lighting.", "hi": "रोमांटिक बीच वेडिंग सेटिंग, सूर्यास्त की रोशनी।" }
+        }
+      ]
+    },
+    {
+      "id": "luxury",
+      "emoji": "✨",
+      "names": { "en": "Luxury", "hi": "लक्जरी" },
+      "styles": [
+        {
+          "titles": { "en": "Private Jet", "hi": "निजी जेट" },
+          "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=500&auto=format",
+          "prompts": { "en": "Sitting inside a luxury private jet cabin.", "hi": "एक लग्जरी प्राइवेट जेट केबिन के अंदर बैठे।" }
+        },
+        {
+          "titles": { "en": "Yacht Life", "hi": "यॉट लाइफ" },
+          "image": "https://images.unsplash.com/photo-1567815350484-febb29227199?w=500&auto=format",
+          "prompts": { "en": "A luxurious lifestyle photo on a yacht in the ocean.", "hi": "समुद्र में एक यॉट पर एक शानदार जीवन शैली की फोटो।" }
+        }
+      ]
+    }
+  ]
+}
