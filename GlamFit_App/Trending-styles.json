@@ -1,473 +1,80 @@
 {
-  "version": 1,
   "categories": [
     {
       "id": "ai_fantasy",
-      "items": [
+      "emoji": "🔥",
+      "names": { "en": "AI Fantasy", "hi": "एआई फंतासी" },
+      "styles": [
         {
-          "title_key": "l10n.style_ai_avatar",
+          "titles": { "en": "AI Avatar", "hi": "एआई अवतार" },
           "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500&auto=format",
-          "prompt_key": "l10n.prompt_ai_avatar"
+          "prompts": { "en": "A professional AI avatar portrait, digital art style.", "hi": "एक पेशेवर एआई अवतार चित्र, डिजिटल कला शैली।" }
         },
         {
-          "title_key": "l10n.style_movie_poster",
+          "titles": { "en": "Movie Poster", "hi": "मूवी पोस्टर" },
           "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=500&auto=format",
-          "prompt_key": "l10n.prompt_movie_poster"
+          "prompts": { "en": "Cinematic movie poster style, dramatic lighting.", "hi": "सिनेमैटिक मूवी पोस्टर शैली, नाटकीय प्रकाश व्यवस्था।" }
         },
         {
-          "title_key": "l10n.style_fashion_magazine",
+          "titles": { "en": "Fashion Magazine", "hi": "फैशन पत्रिका" },
           "image": "https://images.unsplash.com/photo-1537832816519-689ad163238b?w=500&auto=format",
-          "prompt_key": "l10n.prompt_fashion_magazine"
+          "prompts": { "en": "High-end fashion magazine cover style.", "hi": "हाई-एंड फैशन पत्रिका कवर शैली।" }
         },
         {
-          "title_key": "l10n.style_supermodel",
+          "titles": { "en": "Supermodel", "hi": "सुपरमॉडल" },
           "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=500&auto=format",
-          "prompt_key": "l10n.prompt_supermodel"
+          "prompts": { "en": "A professional supermodel runway look.", "hi": "एक पेशेवर सुपरमॉडल रनवे लुक।" }
         }
       ]
     },
     {
       "id": "anime",
-      "items": [
+      "emoji": "🔥",
+      "names": { "en": "Anime", "hi": "एनीमे" },
+      "styles": [
         {
-          "title_key": "l10n.style_anime_portrait",
+          "titles": { "en": "Anime Portrait", "hi": "एनीमे पोर्ट्रेट" },
           "image": "https://images.unsplash.com/photo-1578632738981-43c0ad3c5011?w=500&auto=format",
-          "prompt_key": "l10n.prompt_anime_portrait"
+          "prompts": { "en": "Vibrant anime style character portrait.", "hi": "जीवंत एनीमे शैली चरित्र चित्र।" }
         },
         {
-          "title_key": "l10n.style_manga_style",
-          "image": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?w=500&auto=format",
-          "prompt_key": "l10n.prompt_manga_style"
-        },
-        {
-          "title_key": "l10n.style_cyber_anime",
-          "image": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?w=500&auto=format",
-          "prompt_key": "l10n.prompt_cyber_anime"
-        },
-        {
-          "title_key": "l10n.style_studio_ghibli",
+          "titles": { "en": "Studio Ghibli", "hi": "स्टूडियो घिबली" },
           "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=500&auto=format",
-          "prompt_key": "l10n.prompt_studio_ghibli"
-        },
-        {
-          "title_key": "l10n.style_ninja",
-          "image": "https://images.unsplash.com/photo-1578632738981-43c0ad3c5011?w=500&auto=format",
-          "prompt_key": "l10n.prompt_ninja"
-        },
-        {
-          "title_key": "l10n.style_samurai_anime",
-          "image": "https://images.unsplash.com/photo-1578632738981-43c0ad3c5011?w=500&auto=format",
-          "prompt_key": "l10n.prompt_samurai_anime"
-        }
-      ]
-    },
-    {
-      "id": "celebrity",
-      "items": [
-        {
-          "title_key": "l10n.style_rockstar",
-          "image": "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?w=500&auto=format",
-          "prompt_key": "l10n.prompt_rockstar"
-        },
-        {
-          "title_key": "l10n.style_pop_icon",
-          "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=500&auto=format",
-          "prompt_key": "l10n.prompt_pop_icon"
-        },
-        {
-          "title_key": "l10n.style_iconic_look",
-          "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format",
-          "prompt_key": "l10n.prompt_iconic_look"
-        }
-      ]
-    },
-    {
-      "id": "fashion",
-      "items": [
-        {
-          "title_key": "l10n.style_streetwear",
-          "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=500&auto=format",
-          "prompt_key": "l10n.prompt_streetwear"
-        },
-        {
-          "title_key": "l10n.style_minimalist_fashion",
-          "image": "https://images.unsplash.com/photo-1485872232697-a781ec33a73e?w=500&auto=format",
-          "prompt_key": "l10n.prompt_minimalist_fashion"
-        },
-        {
-          "title_key": "l10n.style_avant_garde",
-          "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=500&auto=format",
-          "prompt_key": "l10n.prompt_avant_garde"
-        },
-        {
-          "title_key": "l10n.style_high_fashion",
-          "image": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=500&auto=format",
-          "prompt_key": "l10n.prompt_high_fashion"
-        },
-        {
-          "title_key": "l10n.style_retro_fashion",
-          "image": "https://images.unsplash.com/photo-1550928431-ee0ec6db30d3?w=500&auto=format",
-          "prompt_key": "l10n.prompt_retro_fashion"
-        }
-      ]
-    },
-    {
-      "id": "beauty",
-      "items": [
-        {
-          "title_key": "l10n.style_glamour",
-          "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&auto=format",
-          "prompt_key": "l10n.prompt_glamour"
-        },
-        {
-          "title_key": "l10n.style_natural_beauty",
-          "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=500&auto=format",
-          "prompt_key": "l10n.prompt_natural_beauty"
-        },
-        {
-          "title_key": "l10n.style_high_end_makeup",
-          "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&auto=format",
-          "prompt_key": "l10n.prompt_high_end_makeup"
-        },
-        {
-          "title_key": "l10n.style_glowing_skin",
-          "image": "https://images.unsplash.com/photo-1596462502278-27bfdc4033c8?w=500&auto=format",
-          "prompt_key": "l10n.prompt_glowing_skin"
-        }
-      ]
-    },
-    {
-      "id": "couple",
-      "items": [
-        {
-          "title_key": "l10n.style_romantic_couple",
-          "image": "https://images.unsplash.com/photo-1516589174184-c6858b16ecb0?w=500&auto=format",
-          "prompt_key": "l10n.prompt_romantic_couple"
-        },
-        {
-          "title_key": "l10n.style_travel_couple",
-          "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=500&auto=format",
-          "prompt_key": "l10n.prompt_travel_couple"
-        },
-        {
-          "title_key": "l10n.style_date_night",
-          "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&auto=format",
-          "prompt_key": "l10n.prompt_date_night"
+          "prompts": { "en": "Soft hand-drawn Studio Ghibli background and character style.", "hi": "सॉफ्ट हाथ से तैयार किया गया स्टूडियो घिबली बैकग्राउंड और कैरेक्टर स्टाइल।" }
         }
       ]
     },
     {
       "id": "wedding",
-      "items": [
+      "emoji": "❤️",
+      "names": { "en": "Wedding", "hi": "शादी" },
+      "styles": [
         {
-          "title_key": "l10n.style_wedding",
-          "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=500&auto=format",
-          "prompt_key": "l10n.prompt_wedding"
-        },
-        {
-          "title_key": "l10n.style_classic_wedding",
-          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=500&auto=format",
-          "prompt_key": "l10n.prompt_classic_wedding"
-        },
-        {
-          "title_key": "l10n.style_beach_wedding",
-          "image": "https://images.unsplash.com/photo-1544124499-58912cbddaad?w=500&auto=format",
-          "prompt_key": "l10n.prompt_beach_wedding"
-        },
-        {
-          "title_key": "l10n.style_garden_wedding",
-          "image": "https://images.unsplash.com/photo-1523438885200-e635ba2c371e?w=500&auto=format",
-          "prompt_key": "l10n.prompt_garden_wedding"
-        },
-        {
-          "title_key": "l10n.style_royal_wedding",
+          "titles": { "en": "Royal Wedding", "hi": "शाही शादी" },
           "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=500&auto=format",
-          "prompt_key": "l10n.prompt_royal_wedding"
+          "prompts": { "en": "A grand royal wedding theme with ethnic wear.", "hi": "जातीय पहनावे के साथ एक भव्य शाही शादी का विषय।" }
         },
         {
-          "title_key": "l10n.style_sunset_wedding",
-          "image": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=500&auto=format",
-          "prompt_key": "l10n.prompt_sunset_wedding"
-        },
-        {
-          "title_key": "l10n.style_traditional_wedding",
-          "image": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=500&auto=format",
-          "prompt_key": "l10n.prompt_traditional_wedding"
-        }
-      ]
-    },
-    {
-      "id": "photography",
-      "items": [
-        {
-          "title_key": "l10n.style_professional_portrait",
-          "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=500&auto=format",
-          "prompt_key": "l10n.prompt_professional_portrait"
-        },
-        {
-          "title_key": "l10n.style_street_photography",
-          "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=500&auto=format",
-          "prompt_key": "l10n.prompt_street_photography"
-        },
-        {
-          "title_key": "l10n.style_architectural",
-          "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=500&auto=format",
-          "prompt_key": "l10n.prompt_architectural"
-        },
-        {
-          "title_key": "l10n.style_black_white",
-          "image": "https://images.unsplash.com/photo-1502164980785-f8aa41d53611?w=500&auto=format",
-          "prompt_key": "l10n.prompt_black_white"
-        }
-      ]
-    },
-    {
-      "id": "fitness",
-      "items": [
-        {
-          "title_key": "l10n.style_gym_workout",
-          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=500&auto=format",
-          "prompt_key": "l10n.prompt_gym_workout"
-        },
-        {
-          "title_key": "l10n.style_yoga_studio",
-          "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500&auto=format",
-          "prompt_key": "l10n.prompt_yoga_studio"
-        },
-        {
-          "title_key": "l10n.style_running",
-          "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=500&auto=format",
-          "prompt_key": "l10n.prompt_running"
-        },
-        {
-          "title_key": "l10n.style_athlete",
-          "image": "https://images.unsplash.com/photo-1461896756996-7835f128b710?w=500&auto=format",
-          "prompt_key": "l10n.prompt_athlete"
-        },
-        {
-          "title_key": "l10n.style_fitness_model",
-          "image": "https://images.unsplash.com/photo-1553969420-fb915228af51?w=500&auto=format",
-          "prompt_key": "l10n.prompt_fitness_model"
+          "titles": { "en": "Beach Wedding", "hi": "बीच वेडिंग" },
+          "image": "https://images.unsplash.com/photo-1544124499-58912cbddaad?w=500&auto=format",
+          "prompts": { "en": "Romantic beach wedding setting, sunset lighting.", "hi": "रोमांटिक बीच वेडिंग सेटिंग, सूर्यास्त की रोशनी।" }
         }
       ]
     },
     {
       "id": "luxury",
-      "items": [
+      "emoji": "✨",
+      "names": { "en": "Luxury", "hi": "लक्जरी" },
+      "styles": [
         {
-          "title_key": "l10n.style_luxury",
-          "image": "https://images.unsplash.com/photo-1503104834685-7205e8607eb9?w=500&auto=format",
-          "prompt_key": "l10n.prompt_luxury"
-        },
-        {
-          "title_key": "l10n.style_private_jet",
+          "titles": { "en": "Private Jet", "hi": "निजी जेट" },
           "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=500&auto=format",
-          "prompt_key": "l10n.prompt_private_jet"
+          "prompts": { "en": "Sitting inside a luxury private jet cabin.", "hi": "एक लग्जरी प्राइवेट जेट केबिन के अंदर बैठे।" }
         },
         {
-          "title_key": "l10n.style_yacht",
+          "titles": { "en": "Yacht Life", "hi": "यॉट लाइफ" },
           "image": "https://images.unsplash.com/photo-1567815350484-febb29227199?w=500&auto=format",
-          "prompt_key": "l10n.prompt_yacht"
-        },
-        {
-          "title_key": "l10n.style_luxury_car",
-          "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=500&auto=format",
-          "prompt_key": "l10n.prompt_luxury_car"
-        },
-        {
-          "title_key": "l10n.style_penthouse",
-          "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=500&auto=format",
-          "prompt_key": "l10n.prompt_penthouse"
-        }
-      ]
-    },
-    {
-      "id": "travel",
-      "items": [
-        {
-          "title_key": "l10n.style_paris_street",
-          "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=500&auto=format",
-          "prompt_key": "l10n.prompt_paris_street"
-        },
-        {
-          "title_key": "l10n.style_santorini",
-          "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=500&auto=format",
-          "prompt_key": "l10n.prompt_santorini"
-        },
-        {
-          "title_key": "l10n.style_maldives",
-          "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=500&auto=format",
-          "prompt_key": "l10n.prompt_maldives"
-        }
-      ]
-    },
-    {
-      "id": "lifestyle",
-      "items": [
-        {
-          "title_key": "l10n.style_coffee_shop",
-          "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=500&auto=format",
-          "prompt_key": "l10n.prompt_coffee_shop"
-        },
-        {
-          "title_key": "l10n.style_book_store",
-          "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=500&auto=format",
-          "prompt_key": "l10n.prompt_book_store"
-        },
-        {
-          "title_key": "l10n.style_luxury_home",
-          "image": "https://images.unsplash.com/photo-1600585154340-be6199f7a096?w=500&auto=format",
-          "prompt_key": "l10n.prompt_luxury_home"
-        },
-        {
-          "title_key": "l10n.style_rooftop_dinner",
-          "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&auto=format",
-          "prompt_key": "l10n.prompt_rooftop_dinner"
-        },
-        {
-          "title_key": "l10n.style_picnic",
-          "image": "https://images.unsplash.com/photo-1526624948485-a636433e1441?w=500&auto=format",
-          "prompt_key": "l10n.prompt_picnic"
-        },
-        {
-          "title_key": "l10n.style_balcony_view",
-          "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=500&auto=format",
-          "prompt_key": "l10n.prompt_balcony_view"
-        },
-        {
-          "title_key": "l10n.style_road_trip",
-          "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8df9?w=500&auto=format",
-          "prompt_key": "l10n.prompt_road_trip"
-        },
-        {
-          "title_key": "l10n.style_camping_life",
-          "image": "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?w=500&auto=format",
-          "prompt_key": "l10n.prompt_camping_life"
-        }
-      ]
-    },
-    {
-      "id": "fantasy",
-      "items": [
-        {
-          "title_key": "l10n.style_fairy_forest",
-          "image": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=500&auto=format",
-          "prompt_key": "l10n.prompt_fairy_forest"
-        },
-        {
-          "title_key": "l10n.style_enchanted_garden",
-          "image": "https://images.unsplash.com/photo-1466692479437-e2bb1f13817a?w=500&auto=format",
-          "prompt_key": "l10n.prompt_enchanted_garden"
-        },
-        {
-          "title_key": "l10n.style_magic_castle",
-          "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=500&auto=format",
-          "prompt_key": "l10n.prompt_magic_castle"
-        },
-        {
-          "title_key": "l10n.style_floating_islands",
-          "image": "https://images.unsplash.com/photo-1502472545339-2e380126741de?w=500&auto=format",
-          "prompt_key": "l10n.prompt_floating_islands"
-        },
-        {
-          "title_key": "l10n.style_sky_kingdom",
-          "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500&auto=format",
-          "prompt_key": "l10n.prompt_sky_kingdom"
-        },
-        {
-          "title_key": "l10n.style_crystal_cave",
-          "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format",
-          "prompt_key": "l10n.prompt_crystal_cave"
-        },
-        {
-          "title_key": "l10n.style_aurora_sky",
-          "image": "https://images.unsplash.com/photo-1531366930075-73ffb9c3164a?w=500&auto=format",
-          "prompt_key": "l10n.prompt_aurora_sky"
-        },
-        {
-          "title_key": "l10n.style_galaxy",
-          "image": "https://images.unsplash.com/photo-1464802686167-b939a6910659?w=500&auto=format",
-          "prompt_key": "l10n.prompt_galaxy"
-        },
-        {
-          "title_key": "l10n.style_starry_night",
-          "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=500&auto=format",
-          "prompt_key": "l10n.prompt_starry_night"
-        },
-        {
-          "title_key": "l10n.style_mystic_forest",
-          "image": "https://images.unsplash.com/photo-1440615496174-ee7ecbe8e733?w=500&auto=format",
-          "prompt_key": "l10n.prompt_mystic_forest"
-        }
-      ]
-    },
-    {
-      "id": "creative",
-      "items": [
-        {
-          "title_key": "l10n.style_neon_city",
-          "image": "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=500&auto=format",
-          "prompt_key": "l10n.prompt_neon_city"
-        },
-        {
-          "title_key": "l10n.style_vintage",
-          "image": "https://images.unsplash.com/photo-1485872232697-a781ec33a73e?w=500&auto=format",
-          "prompt_key": "l10n.prompt_vintage"
-        },
-        {
-          "title_key": "l10n.style_night_city",
-          "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=500&auto=format",
-          "prompt_key": "l10n.prompt_night_city"
-        },
-        {
-          "title_key": "l10n.style_cyberpunk",
-          "image": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?w=500&auto=format",
-          "prompt_key": "l10n.prompt_cyberpunk"
-        },
-        {
-          "title_key": "l10n.style_street_art",
-          "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=500&auto=format",
-          "prompt_key": "l10n.prompt_street_art"
-        },
-        {
-          "title_key": "l10n.style_studio_portrait",
-          "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=500&auto=format",
-          "prompt_key": "l10n.prompt_studio_portrait"
-        },
-        {
-          "title_key": "l10n.style_golden_hour",
-          "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=500&auto=format",
-          "prompt_key": "l10n.prompt_golden_hour"
-        }
-      ]
-    },
-    {
-      "id": "nature",
-      "items": [
-        {
-          "title_key": "l10n.style_mountain_valley",
-          "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=500&auto=format",
-          "prompt_key": "l10n.prompt_mountain_valley"
-        },
-        {
-          "title_key": "l10n.style_waterfall",
-          "image": "https://images.unsplash.com/photo-1433086566086-64670f951833?w=500&auto=format",
-          "prompt_key": "l10n.prompt_waterfall"
-        }
-      ]
-    },
-    {
-      "id": "festival",
-      "items": [
-        {
-          "title_key": "l10n.style_carnival",
-          "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=500&auto=format",
-          "prompt_key": "l10n.prompt_carnival"
-        },
-        {
-          "title_key": "l10n.style_diwali",
-          "image": "https://images.unsplash.com/photo-1573901648469-d81f1d198305?w=500&auto=format",
-          "prompt_key": "l10n.prompt_diwali"
+          "prompts": { "en": "A luxurious lifestyle photo on a yacht in the ocean.", "hi": "समुद्र में एक यॉट पर एक शानदार जीवन शैली की फोटो।" }
         }
       ]
     }
