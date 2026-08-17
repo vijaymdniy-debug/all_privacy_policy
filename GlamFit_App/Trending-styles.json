@@ -7,7 +7,7 @@
       "styles": [
         {
           "titles": { "en": "AI Avatar", "hi": "एआई अवतार" },
-          "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500&auto=format",
+          "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1786940230/trend_1_b7d2bw.png",
           "prompts": { "en": "A professional AI avatar portrait, digital art style.", "hi": "एक पेशेवर एआई अवतार चित्र, डिजिटल कला शैली।" }
         },
         {
