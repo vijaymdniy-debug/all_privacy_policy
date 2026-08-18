@@ -41,17 +41,7 @@
             "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की स्टाइल में फोटो बनाएं।"
           }
         },
-        {
-          "titles": {
-            "en": "Rainy Love Story",
-            "hi": "बारिश वाली लव स्टोरी"
-          },
-          "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1786940231/trend_9_pvjyiz.png",
-          "prompts": {
-            "en": "Create a similar style photo using the user's image.",
-            "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की स्टाइल में फोटो बनाएं।"
-          }
-        },
+        
         {
           "titles": {
             "en": "Dreamy Saree Portrait",
@@ -74,17 +64,7 @@
             "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की स्टाइल में फोटो बनाएं।"
           }
         },
-        {
-          "titles": {
-            "en": "AI Watercolor Portrait",
-            "hi": "एआई वॉटरकलर पोर्ट्रेट"
-          },
-          "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1786940230/trend_1_b7d2bw.png",
-          "prompts": {
-            "en": "Create a similar style photo using the user's image.",
-            "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की स्टाइल में फोटो बनाएं।"
-          }
-        },
+      
         {
           "titles": {
             "en": "Birthday Photo Story",
@@ -152,6 +132,17 @@
   "styles": [
     {
       "titles": {
+        "en": "Great Ocean Coast",
+        "hi": "ग्रेट ओशन कोस्ट"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044154/nature_16_ahoyz5.png",
+      "prompts": {
+        "en": "Create a similar realistic coastal travel portrait overlooking dramatic ocean cliffs, sandy beach, blue water, and rock formations. Preserve the user's identity and appearance.",
+        "hi": "समुद्र की शानदार चट्टानों, रेतीले समुद्र तट, नीले पानी और चट्टानी संरचनाओं को देखते हुए इसी तरह का वास्तविक तटीय ट्रैवल पोर्ट्रेट बनाएं। यूज़र की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
         "en": "Galápagos Coastal Adventure",
         "hi": "गैलापागोस तटीय एडवेंचर"
       },
@@ -159,6 +150,17 @@
       "prompts": {
         "en": "Create a similar realistic coastal nature adventure photo using the user's image. Preserve the person's identity, facial features, skin tone, and natural appearance.",
         "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की वास्तविक तटीय नेचर एडवेंचर फोटो बनाएं। व्यक्ति की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Desert Dunes",
+        "hi": "रेगिस्तानी रेत के टीले"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044152/nature_11_elzltu.png",
+      "prompts": {
+        "en": "Create a similar cinematic realistic desert adventure portrait standing on golden sand dunes during warm sunset light. Preserve identity and appearance.",
+        "hi": "गर्म सूर्यास्त की रोशनी में सुनहरे रेगिस्तानी रेत के टीलों पर खड़े हुए इसी तरह का सिनेमैटिक वास्तविक डेजर्ट एडवेंचर पोर्ट्रेट बनाएं। पहचान और रूप सुरक्षित रखें।"
       }
     },
     {
@@ -249,18 +251,7 @@
         "hi": "हरे-भरे बाली-स्टाइल राइस टैरेस, नारियल के पेड़ों और ग्रामीण प्राकृतिक वातावरण से घिरा इसी तरह का वास्तविक ट्रैवल पोर्ट्रेट बनाएं। पहचान और रूप सुरक्षित रखें।"
       }
     },
-    {
-      "titles": {
-        "en": "Great Ocean Coast",
-        "hi": "ग्रेट ओशन कोस्ट"
-      },
-      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044154/nature_16_ahoyz5.png",
-      "prompts": {
-        "en": "Create a similar realistic coastal travel portrait overlooking dramatic ocean cliffs, sandy beach, blue water, and rock formations. Preserve the user's identity and appearance.",
-        "hi": "समुद्र की शानदार चट्टानों, रेतीले समुद्र तट, नीले पानी और चट्टानी संरचनाओं को देखते हुए इसी तरह का वास्तविक तटीय ट्रैवल पोर्ट्रेट बनाएं। यूज़र की पहचान और रूप सुरक्षित रखें।"
-      }
-    },
-    {
+     {
       "titles": {
         "en": "Machu Picchu Adventure",
         "hi": "माचू पिच्चू एडवेंचर"
@@ -315,17 +306,7 @@
         "hi": "रंगीन जंगली फूलों और शानदार चट्टानी पहाड़ी चोटियों से घिरे अल्पाइन मीडो में इसी तरह का वास्तविक पोर्ट्रेट बनाएं। यूज़र की पहचान और रूप सुरक्षित रखें।"
       }
     },
-    {
-      "titles": {
-        "en": "Desert Dunes",
-        "hi": "रेगिस्तानी रेत के टीले"
-      },
-      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044152/nature_11_elzltu.png",
-      "prompts": {
-        "en": "Create a similar cinematic realistic desert adventure portrait standing on golden sand dunes during warm sunset light. Preserve identity and appearance.",
-        "hi": "गर्म सूर्यास्त की रोशनी में सुनहरे रेगिस्तानी रेत के टीलों पर खड़े हुए इसी तरह का सिनेमैटिक वास्तविक डेजर्ट एडवेंचर पोर्ट्रेट बनाएं। पहचान और रूप सुरक्षित रखें।"
-      }
-    },
+    
     {
       "titles": {
         "en": "Plitvice Lakes",
@@ -369,18 +350,8 @@
         "en": "Create a similar realistic beach portrait with a deep blue ocean, sandy beach, and dramatic towering white clouds. Preserve the person's identity, face, and appearance.",
         "hi": "गहरे नीले समुद्र, रेतीले समुद्र तट और शानदार ऊंचे सफेद बादलों के साथ इसी तरह का वास्तविक बीच पोर्ट्रेट बनाएं। व्यक्ति की पहचान, चेहरा और रूप सुरक्षित रखें।"
       }
-    },
-    {
-      "titles": {
-        "en": "Alpine Mountain Escape",
-        "hi": "अल्पाइन माउंटेन एस्केप"
-      },
-      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787042919/nature_1_poohod.png",
-      "prompts": {
-        "en": "Create a similar realistic alpine mountain travel photo with dramatic snow-covered peaks and colorful mountain wildflowers. Preserve the person's identity and appearance.",
-        "hi": "शानदार बर्फीली चोटियों और रंगीन पहाड़ी फूलों के साथ इसी तरह की वास्तविक अल्पाइन माउंटेन ट्रैवल फोटो बनाएं। व्यक्ति की पहचान और रूप सुरक्षित रखें।"
-      }
     }
+  
   ]
 }
   ]
