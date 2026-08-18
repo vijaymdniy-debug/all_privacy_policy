@@ -142,26 +142,246 @@
         }
       ]
     },
+   {
+  "id": "nature",
+  "emoji": "🌿",
+  "names": {
+    "en": "Nature",
+    "hi": "प्रकृति"
+  },
+  "styles": [
     {
-      "id": "nature",
-      "emoji": "🌿",
-      "names": {
-        "en": "Nature",
-        "hi": "प्रकृति"
+      "titles": {
+        "en": "Galápagos Coastal Adventure",
+        "hi": "गैलापागोस तटीय एडवेंचर"
       },
-      "styles": [
-        {
-          "titles": {
-            "en": "Nature Portrait",
-            "hi": "नेचर पोर्ट्रेट"
-          },
-          "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787042919/nature_1_poohod.png",
-          "prompts": {
-            "en": "Create a realistic nature portrait using the user's image. Keep the person's identity, facial features, skin tone, and natural appearance unchanged. Place the person in a beautiful lush natural environment with cinematic lighting, realistic greenery, soft natural colors, and professional photography.",
-            "hi": "यूज़र की फोटो का उपयोग करके एक वास्तविक नेचर पोर्ट्रेट बनाएं। व्यक्ति की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप अपरिवर्तित रखें। व्यक्ति को सुंदर हरे-भरे प्राकृतिक वातावरण में रखें, जिसमें सिनेमैटिक लाइटिंग, वास्तविक हरियाली, सॉफ्ट प्राकृतिक रंग और प्रोफेशनल फोटोग्राफी हो।"
-          }
-        }
-      ]
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044183/nature_4_gofeup.png",
+      "prompts": {
+        "en": "Create a similar realistic coastal nature adventure photo using the user's image. Preserve the person's identity, facial features, skin tone, and natural appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की वास्तविक तटीय नेचर एडवेंचर फोटो बनाएं। व्यक्ति की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Alpine Mountain Escape",
+        "hi": "अल्पाइन माउंटेन एस्केप"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044156/nature_1_bolpmt.png",
+      "prompts": {
+        "en": "Create a similar realistic alpine mountain travel photo using the user's image, with dramatic snow-covered peaks and colorful mountain wildflowers. Preserve the person's identity and appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की वास्तविक अल्पाइन माउंटेन ट्रैवल फोटो बनाएं, जिसमें बर्फ से ढकी शानदार चोटियां और रंगीन पहाड़ी फूल हों। व्यक्ति की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Bamboo Forest Walk",
+        "hi": "बांस के जंगल की सैर"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044155/nature_10_dxuvbh.png",
+      "prompts": {
+        "en": "Create a similar realistic photo of the user walking through a lush bamboo forest with a peaceful stone pathway. Preserve identity and natural appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके घने हरे बांस के जंगल में शांत पत्थर की पगडंडी पर चलते हुए इसी तरह की वास्तविक फोटो बनाएं। पहचान और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Waterfall Mist",
+        "hi": "झरने की धुंध"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044155/nature_18_fymdu6.png",
+      "prompts": {
+        "en": "Create a similar cinematic realistic waterfall adventure photo with dramatic mist, rocks, and lush green cliffs. Preserve the user's identity and appearance.",
+        "hi": "नाटकीय धुंध, चट्टानों और हरी-भरी पहाड़ियों वाले इसी तरह के सिनेमैटिक वास्तविक झरने के एडवेंचर फोटो बनाएं। यूज़र की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Turquoise Alpine Lake",
+        "hi": "फ़िरोज़ा अल्पाइन झील"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044155/nature_15_avskld.png",
+      "prompts": {
+        "en": "Create a similar realistic travel portrait beside a turquoise alpine lake surrounded by snowy mountains and pine forests. Preserve the person's identity and appearance.",
+        "hi": "बर्फीले पहाड़ों और देवदार के जंगलों से घिरी फ़िरोज़ा अल्पाइन झील के किनारे इसी तरह का वास्तविक ट्रैवल पोर्ट्रेट बनाएं। व्यक्ति की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Nordic Fishing Village",
+        "hi": "नॉर्डिक फिशिंग विलेज"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044155/nature_17_uoodjr.png",
+      "prompts": {
+        "en": "Create a similar realistic Nordic coastal village portrait with red wooden houses, calm water, boats, and dramatic mountains. Preserve identity and natural appearance.",
+        "hi": "लाल लकड़ी के घरों, शांत पानी, नावों और शानदार पहाड़ों वाले इसी तरह के वास्तविक नॉर्डिक तटीय गांव का पोर्ट्रेट बनाएं। पहचान और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Yosemite Valley Meadow",
+        "hi": "योसेमिटी वैली मीडो"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044155/nature_13_ewopwm.png",
+      "prompts": {
+        "en": "Create a similar realistic nature portrait in a green Yosemite-style meadow with a massive granite mountain and pine trees in the background. Preserve identity and appearance.",
+        "hi": "विशाल ग्रेनाइट पहाड़ और देवदार के पेड़ों की पृष्ठभूमि वाले हरे योसेमिटी-स्टाइल मीडो में इसी तरह का वास्तविक नेचर पोर्ट्रेट बनाएं। पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Mountain Wildflower Valley",
+        "hi": "माउंटेन वाइल्डफ्लावर वैली"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044154/nature_8_hmfbjp.png",
+      "prompts": {
+        "en": "Create a similar realistic portrait in a colorful alpine wildflower valley surrounded by dramatic snow-covered mountains. Preserve the user's identity and appearance.",
+        "hi": "शानदार बर्फीले पहाड़ों से घिरी रंग-बिरंगी अल्पाइन वाइल्डफ्लावर वैली में इसी तरह का वास्तविक पोर्ट्रेट बनाएं। यूज़र की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Bali Rice Terraces",
+        "hi": "बाली राइस टैरेस"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044154/nature_12_ybix6r.png",
+      "prompts": {
+        "en": "Create a similar realistic tropical travel portrait surrounded by lush Bali-style rice terraces, palm trees, and green countryside. Preserve identity and appearance.",
+        "hi": "हरे-भरे बाली-स्टाइल राइस टैरेस, नारियल के पेड़ों और ग्रामीण प्राकृतिक वातावरण से घिरा इसी तरह का वास्तविक ट्रैवल पोर्ट्रेट बनाएं। पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Great Ocean Coast",
+        "hi": "ग्रेट ओशन कोस्ट"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044154/nature_16_ahoyz5.png",
+      "prompts": {
+        "en": "Create a similar realistic coastal travel portrait overlooking dramatic ocean cliffs, sandy beach, blue water, and rock formations. Preserve the user's identity and appearance.",
+        "hi": "समुद्र की शानदार चट्टानों, रेतीले समुद्र तट, नीले पानी और चट्टानी संरचनाओं को देखते हुए इसी तरह का वास्तविक तटीय ट्रैवल पोर्ट्रेट बनाएं। यूज़र की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Machu Picchu Adventure",
+        "hi": "माचू पिच्चू एडवेंचर"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044154/nature_9_jpj4hv.png",
+      "prompts": {
+        "en": "Create a similar realistic travel portrait at Machu Picchu surrounded by dramatic green mountains and ancient stone ruins. Preserve the person's identity and appearance.",
+        "hi": "हरे-भरे शानदार पहाड़ों और प्राचीन पत्थर के खंडहरों से घिरे माचू पिच्चू में इसी तरह का वास्तविक ट्रैवल पोर्ट्रेट बनाएं। व्यक्ति की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Scottish Highlands",
+        "hi": "स्कॉटिश हाइलैंड्स"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044154/nature_14_z9piqu.png",
+      "prompts": {
+        "en": "Create a similar realistic Scottish Highlands adventure portrait on a rocky viewpoint overlooking dramatic green mountains and valleys. Preserve identity and appearance.",
+        "hi": "नाटकीय हरे पहाड़ों और घाटियों को देखते हुए चट्टानी व्यूपॉइंट पर इसी तरह का वास्तविक स्कॉटिश हाइलैंड्स एडवेंचर पोर्ट्रेट बनाएं। पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Patagonia Mountain Lake",
+        "hi": "पैटागोनिया माउंटेन लेक"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044153/nature_2_f4pwkv.png",
+      "prompts": {
+        "en": "Create a similar realistic Patagonia mountain travel portrait beside a turquoise alpine lake surrounded by dramatic snow-covered peaks. Preserve identity and appearance.",
+        "hi": "शानदार बर्फीली चोटियों से घिरी फ़िरोज़ा अल्पाइन झील के किनारे इसी तरह का वास्तविक पैटागोनिया माउंटेन ट्रैवल पोर्ट्रेट बनाएं। पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Rainforest Canopy",
+        "hi": "रेनफॉरेस्ट कैनोपी"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044153/nature_7_fgkgox.png",
+      "prompts": {
+        "en": "Create a similar realistic rainforest portrait on a wooden observation platform overlooking a lush tropical forest with soft morning mist. Preserve identity and appearance.",
+        "hi": "सुबह की हल्की धुंध वाले घने उष्णकटिबंधीय जंगल को देखते हुए लकड़ी के ऑब्जर्वेशन प्लेटफॉर्म पर इसी तरह का वास्तविक रेनफॉरेस्ट पोर्ट्रेट बनाएं। पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Alpine Wildflower Meadow",
+        "hi": "अल्पाइन वाइल्डफ्लावर मीडो"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044152/nature_6_dncacc.png",
+      "prompts": {
+        "en": "Create a similar realistic alpine meadow portrait surrounded by colorful wildflowers and dramatic rocky mountain peaks. Preserve the user's identity and appearance.",
+        "hi": "रंगीन जंगली फूलों और शानदार चट्टानी पहाड़ी चोटियों से घिरे अल्पाइन मीडो में इसी तरह का वास्तविक पोर्ट्रेट बनाएं। यूज़र की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Desert Dunes",
+        "hi": "रेगिस्तानी रेत के टीले"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044152/nature_11_elzltu.png",
+      "prompts": {
+        "en": "Create a similar cinematic realistic desert adventure portrait standing on golden sand dunes during warm sunset light. Preserve identity and appearance.",
+        "hi": "गर्म सूर्यास्त की रोशनी में सुनहरे रेगिस्तानी रेत के टीलों पर खड़े हुए इसी तरह का सिनेमैटिक वास्तविक डेजर्ट एडवेंचर पोर्ट्रेट बनाएं। पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Plitvice Lakes",
+        "hi": "प्लिटविस लेक्स"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044152/nature_3_nz5hmj.png",
+      "prompts": {
+        "en": "Create a similar realistic nature travel portrait on a wooden walkway surrounded by turquoise lakes, waterfalls, and lush green forest. Preserve identity and appearance.",
+        "hi": "फ़िरोज़ा झीलों, झरनों और हरे-भरे जंगल से घिरे लकड़ी के वॉकवे पर इसी तरह का वास्तविक नेचर ट्रैवल पोर्ट्रेट बनाएं। पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Salar de Uyuni",
+        "hi": "सालार दे उयूनी"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044152/nature_5_joqsto.png",
+      "prompts": {
+        "en": "Create a similar realistic travel portrait on the vast white salt flats of Salar de Uyuni under a clear blue sky. Preserve the person's identity and appearance.",
+        "hi": "साफ नीले आसमान के नीचे सालार दे उयूनी के विशाल सफेद नमक के मैदान में इसी तरह का वास्तविक ट्रैवल पोर्ट्रेट बनाएं। व्यक्ति की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Rainy City Mood",
+        "hi": "बारिश वाली सिटी मूड"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044151/nature_19_kfq9cl.jpg",
+      "prompts": {
+        "en": "Create a similar cinematic realistic rainy city portrait using the user's image, with an umbrella, wet streets, reflections, and atmospheric city lights. Preserve identity and appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके छतरी, गीली सड़क, प्रतिबिंब और शहर की रोशनी वाली इसी तरह की सिनेमैटिक वास्तविक बारिश वाली सिटी फोटो बनाएं। पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Beach & Cloudscape",
+        "hi": "बीच और बादलों का आसमान"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787044151/nature_20_ufnyxh.jpg",
+      "prompts": {
+        "en": "Create a similar realistic beach portrait with a deep blue ocean, sandy beach, and dramatic towering white clouds. Preserve the person's identity, face, and appearance.",
+        "hi": "गहरे नीले समुद्र, रेतीले समुद्र तट और शानदार ऊंचे सफेद बादलों के साथ इसी तरह का वास्तविक बीच पोर्ट्रेट बनाएं। व्यक्ति की पहचान, चेहरा और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Alpine Mountain Escape",
+        "hi": "अल्पाइन माउंटेन एस्केप"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787042919/nature_1_poohod.png",
+      "prompts": {
+        "en": "Create a similar realistic alpine mountain travel photo with dramatic snow-covered peaks and colorful mountain wildflowers. Preserve the person's identity and appearance.",
+        "hi": "शानदार बर्फीली चोटियों और रंगीन पहाड़ी फूलों के साथ इसी तरह की वास्तविक अल्पाइन माउंटेन ट्रैवल फोटो बनाएं। व्यक्ति की पहचान और रूप सुरक्षित रखें।"
+      }
     }
+  ]
+}
   ]
 }
