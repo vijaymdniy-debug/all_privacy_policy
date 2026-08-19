@@ -461,6 +461,28 @@
         "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की रोमांटिक कपल सेल्फी बनाएं, जिसमें कपल नीले आसमान के सामने हाथों से हार्ट शेप बना रहा हो। दोनों की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप सुरक्षित रखें।"
       }
     },
+    {
+      "titles": {
+        "en": "Pencil Sketch Romance",
+        "hi": "पेंसिल स्केच रोमांस"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787123237/coupl-13_10_hzcpbf.jpg",
+      "prompts": {
+        "en": "Transform the user's couple photo into a detailed romantic pencil sketch. Show the couple in a tender intimate pose, with realistic hand-drawn graphite shading, fine facial details, soft paper texture, and an emotional artistic atmosphere. Preserve both people's identities, facial features, hairstyles, and expressions. Do not include social media interface elements, text, logos, or watermarks.",
+        "hi": "यूज़र की कपल फोटो को एक विस्तृत रोमांटिक पेंसिल स्केच में बदलें। कपल को एक प्यारे और रोमांटिक पोज़ में दिखाएं, जिसमें वास्तविक हाथ से बने ग्रेफाइट शेडिंग, चेहरे की बारीकियां, हल्की पेपर टेक्सचर और भावनात्मक आर्टिस्टिक माहौल हो। दोनों की पहचान, चेहरे की विशेषताएं, हेयरस्टाइल और भाव सुरक्षित रखें। सोशल मीडिया इंटरफेस, टेक्स्ट, लोगो या वॉटरमार्क शामिल न करें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Lovers by the Meadow",
+        "hi": "मीडो में प्रेमी"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787123109/coupl-13_4_hwysel.jpg",
+      "prompts": {
+        "en": "Create a similar romantic illustrated couple portrait using the user's image. Show the couple sitting together on a rock in a peaceful grassy meadow, gazing lovingly at each other. Use soft warm daylight, subtle greenery, elegant Indian-inspired outfits, and a dreamy cinematic atmosphere. Preserve both identities and facial features.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का रोमांटिक इलस्ट्रेटेड कपल पोर्ट्रेट बनाएं। कपल को शांत हरे मैदान में एक चट्टान पर साथ बैठे और एक-दूसरे को प्यार से देखते हुए दिखाएं। हल्की गर्म दिन की रोशनी, हरियाली, खूबसूरत भारतीय शैली के आउटफिट और ड्रीमी सिनेमैटिक माहौल रखें। दोनों की पहचान और चेहरे की विशेषताएं सुरक्षित रखें।"
+      }
+    },
 {
       "titles": {
         "en": "Seaside Evening Love",
@@ -486,6 +508,28 @@
     },
     {
       "titles": {
+        "en": "Rainy Umbrella Love",
+        "hi": "बारिश में छतरी वाला प्यार"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787123174/coupl-13_9_zm5cso.jpg",
+      "prompts": {
+        "en": "Create a similar romantic black-and-white pencil sketch using the user's couple image. Show one partner holding an umbrella over the other during a rainy evening in a beautiful tree-lined park, with wet pavement, reflections, and soft glowing street lamps. Preserve both identities and expressions. Do not include text, social media UI, or watermarks.",
+        "hi": "यूज़र की कपल फोटो का उपयोग करके इसी तरह का रोमांटिक ब्लैक-एंड-व्हाइट पेंसिल स्केच बनाएं। बारिश वाली शाम में पेड़ों से घिरे खूबसूरत पार्क में एक पार्टनर दूसरे के ऊपर छतरी पकड़े हुए दिखे, साथ में गीली सड़क, प्रतिबिंब और हल्की चमकती स्ट्रीट लाइट्स हों। दोनों की पहचान और भाव सुरक्षित रखें। टेक्स्ट, सोशल मीडिया UI या वॉटरमार्क शामिल न करें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Picture of Love",
+        "hi": "प्यार की तस्वीर"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787123108/coupl-13_3_jqirbo.jpg",
+      "prompts": {
+        "en": "Create a similar romantic illustrated couple scene using the user's image. Show one partner sitting while looking at a small photograph of the other, with the other partner standing lovingly behind them. Use a soft minimal background, warm pastel tones, elegant Indian-inspired clothing, and a dreamy emotional mood. Preserve both identities and facial features.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का रोमांटिक इलस्ट्रेटेड कपल सीन बनाएं। एक पार्टनर को दूसरे की छोटी तस्वीर देखते हुए बैठा हुआ और दूसरे पार्टनर को पीछे प्यार से खड़ा हुआ दिखाएं। सॉफ्ट मिनिमल बैकग्राउंड, गर्म पेस्टल रंग, खूबसूरत भारतीय शैली के कपड़े और ड्रीमी भावनात्मक माहौल रखें। दोनों की पहचान और चेहरे की विशेषताएं सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
         "en": "Tropical Cliffside Love",
         "hi": "ट्रॉपिकल क्लिफसाइड लव"
       },
@@ -506,6 +550,27 @@
         "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का खूबसूरत भारतीय कपल पोर्ट्रेट बनाएं। महिला को पारंपरिक आभूषणों के साथ शानदार लाल और काले लहंगे में और पुरुष को आकर्षक काले कुर्ते में दिखाएं। गर्म सुनहरी रोशनी और हेरिटेज वॉल बैकग्राउंड रखें। दोनों की पहचान सुरक्षित रखें।"
       }
     },
+    {
+      "titles": {
+        "en": "Swinging in Love",
+        "hi": "झूले पर प्यार"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787123109/coupl-13_6_smcuj5.jpg",
+      "prompts": {
+        "en": "Create a similar romantic black-and-white pencil sketch of a couple sharing a swing in a beautiful garden. Show them looking lovingly at each other with detailed graphite shading, soft paper texture, romantic expressions, and an artistic hand-drawn style. Preserve both identities, facial features, and hairstyles. Do not include text, UI, or watermarks.",
+        "hi": "सुंदर बगीचे में एक साथ झूला झूलते कपल का इसी तरह का रोमांटिक ब्लैक-एंड-व्हाइट पेंसिल स्केच बनाएं। दोनों को एक-दूसरे को प्यार से देखते हुए दिखाएं, जिसमें बारीक ग्रेफाइट शेडिंग, सॉफ्ट पेपर टेक्सचर, रोमांटिक भाव और हाथ से बने आर्टिस्टिक स्टाइल का उपयोग हो। दोनों की पहचान, चेहरे की विशेषताएं और हेयरस्टाइल सुरक्षित रखें। टेक्स्ट, UI या वॉटरमार्क शामिल न करें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Saree Walk Together",
+        "hi": "साड़ी में साथ चलना"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787123108/coupl-13_1_yplgfo.jpg",
+      "prompts": {
+        "en": "Create a similar romantic black-and-white pencil sketch using the user's couple image. Show the couple walking side by side, with the woman wearing an elegant saree and the man in a simple traditional outfit, both sharing a subtle loving expression. Use detailed graphite shading and a soft artistic paper texture. Preserve both identities and natural expressions. Do not include text, UI, or watermarks.",
+        "hi": "यूज़र की कपल फोटो का उपयोग करके इसी तरह का रोमांटिक ब्लैक-एंड-व्हाइट पेंसिल स्केच बनाएं। कपल को साथ-साथ चलते हुए दिखाएं, महिला को खूबसूरत साड़ी और पुरुष को साधारण पारंपरिक कपड़ों में रखें, दोनों के चेहरे पर हल्का प्यार भरा भाव हो। बारीक ग्रेफाइट शेडिंग और सॉफ्ट आर्टिस्टिक पेपर टेक्सचर रखें। दोनों की पहचान और प्राकृतिक भाव सुरक्षित रखें। टेक्स्ट, UI या वॉटरमार्क शामिल न करें।"
+      }
     {
       "titles": {
         "en": "Swiss Alps Romance",
@@ -559,6 +624,50 @@
       "prompts": {
         "en": "Create a similar cinematic soulmate couple poster using the user's image. Show the couple together in a romantic seaside setting with a bouquet of red roses and an emotional cinematic atmosphere. Preserve both identities, facial features, and appearance.",
         "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का सिनेमैटिक सोलमेट कपल पोस्टर बनाएं। कपल को लाल गुलाबों के गुलदस्ते के साथ रोमांटिक समुद्र किनारे के वातावरण में दिखाएं और भावनात्मक सिनेमैटिक माहौल रखें। दोनों की पहचान, चेहरे की विशेषताएं और रूप सुरक्षित रखें।"
+      }
+    },
+     {
+      "titles": {
+        "en": "Forever Together",
+        "hi": "हमेशा साथ"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787123109/coupl-13_8_fwuejz.jpg",
+      "prompts": {
+        "en": "Create a similar emotional black-and-white pencil sketch of the couple sitting together in an intimate conversation. Use detailed graphite shading, realistic facial expressions, soft paper texture, and a nostalgic romantic atmosphere. Preserve both people's identities and natural expressions. Do not include text, social media elements, or watermarks.",
+        "hi": "कपल को एक-दूसरे से प्यार भरी बातचीत करते हुए बैठे दिखाते हुए इसी तरह का भावनात्मक ब्लैक-एंड-व्हाइट पेंसिल स्केच बनाएं। बारीक ग्रेफाइट शेडिंग, वास्तविक चेहरे के भाव, हल्की पेपर टेक्सचर और नॉस्टैल्जिक रोमांटिक माहौल रखें। दोनों की पहचान और प्राकृतिक भाव सुरक्षित रखें। टेक्स्ट, सोशल मीडिया एलिमेंट या वॉटरमार्क शामिल न करें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Winter Blossom Love",
+        "hi": "विंटर ब्लॉसम लव"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787123109/coupl-13_1_zx7t3d.jpg",
+      "prompts": {
+        "en": "Create a similar photorealistic romantic winter couple portrait using the user's image. Show the couple embracing and looking lovingly into each other's eyes in a snowy forest with delicate pink blossoms, falling snow, soft winter light, and cozy elegant outfits. Preserve both identities, facial features, skin tones, and natural appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का फोटोरियलिस्टिक रोमांटिक विंटर कपल पोर्ट्रेट बनाएं। बर्फीले जंगल में हल्के गुलाबी फूलों, गिरती बर्फ, सॉफ्ट विंटर लाइट और आरामदायक खूबसूरत कपड़ों के साथ कपल को एक-दूसरे को गले लगाकर प्यार से देखते हुए दिखाएं। दोनों की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Proposal Moment",
+        "hi": "प्रपोज़ल मोमेंट"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787123109/coupl-13_7_ev6vxp.jpg",
+      "prompts": {
+        "en": "Create a similar romantic proposal scene using the user's couple image. Show one partner kneeling and proposing to the other, with an emotional loving expression. Use elegant Indian-inspired clothing, a beautiful outdoor garden setting, soft natural light, and cinematic composition. Preserve both identities and facial features.",
+        "hi": "यूज़र की कपल फोटो का उपयोग करके इसी तरह का रोमांटिक प्रपोज़ल सीन बनाएं। एक पार्टनर को घुटने पर बैठकर दूसरे को प्रपोज़ करते हुए और दूसरे को भावुक प्यार भरे भाव के साथ दिखाएं। खूबसूरत भारतीय शैली के कपड़े, आउटडोर गार्डन, सॉफ्ट प्राकृतिक रोशनी और सिनेमैटिक कंपोज़िशन रखें। दोनों की पहचान और चेहरे की विशेषताएं सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Midnight Street Love",
+        "hi": "मिडनाइट स्ट्रीट लव"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787123108/coupl-13_2_da43pd.jpg",
+      "prompts": {
+        "en": "Create a similar romantic black-and-white pencil sketch using the user's couple photo. Show the couple walking together on a beautiful lamp-lit city street at night, with one partner slightly ahead and the other looking lovingly toward them. Use detailed graphite texture and cinematic depth. Preserve both identities and expressions. Do not include text, UI, or watermarks.",
+        "hi": "यूज़र की कपल फोटो का उपयोग करके इसी तरह का रोमांटिक ब्लैक-एंड-व्हाइट पेंसिल स्केच बनाएं। रात में खूबसूरत लैम्प से रोशन शहर की सड़क पर साथ चलते हुए कपल को दिखाएं, जिसमें एक पार्टनर थोड़ा आगे हो और दूसरा उसे प्यार से देख रहा हो। बारीक ग्रेफाइट टेक्सचर और सिनेमैटिक डेप्थ रखें। दोनों की पहचान और भाव सुरक्षित रखें। टेक्स्ट, UI या वॉटरमार्क शामिल न करें।"
       }
     }
    
