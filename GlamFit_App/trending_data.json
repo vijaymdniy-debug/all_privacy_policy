@@ -31,6 +31,72 @@
           }
         },
         {
+      "titles": {
+        "en": "Rainy City Glow",
+        "hi": "रेनी सिटी ग्लो"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079408/trend_07_d8ybzs.jpg",
+      "prompts": {
+        "en": "Create a similar cinematic rainy city portrait using the user's image. Show the person holding a transparent umbrella on a rainy urban street at night, with colorful neon lights, wet reflections, shallow depth of field, and a stylish cinematic atmosphere. Preserve the person's identity, facial features, skin tone, and natural appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का सिनेमैटिक रेनी सिटी पोर्ट्रेट बनाएं। व्यक्ति को रात में बारिश वाली शहरी सड़क पर पारदर्शी छतरी पकड़े हुए दिखाएं, जिसमें रंगीन नियॉन लाइट्स, गीली सड़क के प्रतिबिंब, शैलो डेप्थ ऑफ फील्ड और स्टाइलिश सिनेमैटिक माहौल हो। व्यक्ति की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Autumn Street Style",
+        "hi": "ऑटम स्ट्रीट स्टाइल"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079408/trend_06_xcdvab.jpg",
+      "prompts": {
+        "en": "Create a similar sophisticated autumn fashion portrait using the user's image. Place the person on a beautiful tree-lined walkway during golden autumn, wearing a stylish casual outfit with warm sunlight, falling leaves, and cinematic depth of field. Preserve the person's identity and appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का शानदार ऑटम फैशन पोर्ट्रेट बनाएं। व्यक्ति को सुनहरी शरद ऋतु के दौरान पेड़ों से घिरे खूबसूरत रास्ते पर स्टाइलिश कैज़ुअल आउटफिट में दिखाएं, जिसमें गर्म धूप, गिरते पत्ते और सिनेमैटिक डेप्थ ऑफ फील्ड हो। व्यक्ति की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Giant Portrait Effect",
+        "hi": "जायंट पोर्ट्रेट इफेक्ट"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079406/trend_05_kvfyrg.jpg",
+      "prompts": {
+        "en": "Create a similar creative giant portrait effect using the user's image. Show the person walking confidently on a scenic tree-lined road while a large artistic close-up portrait of the same person appears softly in the background. Preserve the person's identity, facial features, and appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का क्रिएटिव जायंट पोर्ट्रेट इफेक्ट बनाएं। व्यक्ति को पेड़ों से घिरी सुंदर सड़क पर आत्मविश्वास से चलते हुए दिखाएं और उसी व्यक्ति का बड़ा आर्टिस्टिक क्लोज़-अप पोर्ट्रेट बैकग्राउंड में सॉफ्ट तरीके से दिखाई दे। व्यक्ति की पहचान, चेहरे की विशेषताएं और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Luxury Black Suit",
+        "hi": "लक्ज़री ब्लैक सूट"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079405/trend_03_yx5see.jpg",
+      "prompts": {
+        "en": "Create a similar luxury men's fashion portrait using the user's image. Dress the person in a sophisticated black suit with a black shirt and stylish sunglasses, with dramatic golden-hour lighting and a cinematic cloudy sky background. Preserve the person's identity, facial features, hairstyle, and natural appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का लक्ज़री पुरुष फैशन पोर्ट्रेट बनाएं। व्यक्ति को ब्लैक शर्ट, शानदार ब्लैक सूट और स्टाइलिश सनग्लासेस में दिखाएं, साथ में नाटकीय गोल्डन-आवर लाइटिंग और सिनेमैटिक बादलों वाला आसमान हो। व्यक्ति की पहचान, चेहरे की विशेषताएं, हेयरस्टाइल और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Monochrome Giant Portrait",
+        "hi": "मोनोक्रोम जायंट पोर्ट्रेट"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079403/trend_02_ilmrki.jpg",
+      "prompts": {
+        "en": "Create a similar artistic portrait using the user's image. Show the person sitting casually in a stylish black outfit and jeans, with a large monochrome close-up portrait of the same person filling the background. Keep the subject in natural color while the large background portrait remains black and white. Preserve identity and appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का आर्टिस्टिक पोर्ट्रेट बनाएं। व्यक्ति को स्टाइलिश ब्लैक आउटफिट और जींस में आराम से बैठे हुए दिखाएं, जबकि उसी व्यक्ति का बड़ा मोनोक्रोम क्लोज़-अप पोर्ट्रेट बैकग्राउंड में हो। मुख्य व्यक्ति को प्राकृतिक रंगों में और बड़े बैकग्राउंड पोर्ट्रेट को ब्लैक एंड व्हाइट रखें। पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Neon Sunset Street",
+        "hi": "नियॉन सनसेट स्ट्रीट"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079373/trend_01_ogfder.jpg",
+      "prompts": {
+        "en": "Create a similar cinematic street fashion portrait using the user's image. Show the person in a stylish black streetwear outfit and sunglasses on a wet city street during a dramatic orange sunset, with glowing storefronts, reflections, and cinematic lighting. Preserve the person's identity, facial features, and natural appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का सिनेमैटिक स्ट्रीट फैशन पोर्ट्रेट बनाएं। व्यक्ति को स्टाइलिश ब्लैक स्ट्रीटवियर और सनग्लासेस में गीली शहर की सड़क पर शानदार नारंगी सूर्यास्त के दौरान दिखाएं, जिसमें चमकती दुकानों, सड़क के प्रतिबिंब और सिनेमैटिक लाइटिंग हो। व्यक्ति की पहचान, चेहरे की विशेषताएं और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+        {
           "titles": {
             "en": "Golden Saree Glow",
             "hi": "गोल्डन साड़ी ग्लो"
@@ -362,6 +428,17 @@
     "hi": "कपल"
   },
   "styles": [
+     {
+      "titles": {
+        "en": "Neon Love",
+        "hi": "नियॉन लव"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079199/coupl_2_fixo5i.jpg",
+      "prompts": {
+        "en": "Create a similar creative couple concept using the user's image, featuring a realistic person walking hand in hand with a glowing neon outline partner holding a bouquet of red roses on a wet city street at night. Preserve the user's identity and appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का क्रिएटिव कपल कॉन्सेप्ट बनाएं, जिसमें यूज़र रात की गीली शहर की सड़क पर लाल गुलाबों का गुलदस्ता पकड़े चमकते नियॉन आउटलाइन पार्टनर के साथ हाथ पकड़कर चलता हुआ दिखे। यूज़र की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
     {
       "titles": {
         "en": "Romantic Beach Walk",
@@ -384,6 +461,18 @@
         "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की रोमांटिक कपल सेल्फी बनाएं, जिसमें कपल नीले आसमान के सामने हाथों से हार्ट शेप बना रहा हो। दोनों की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप सुरक्षित रखें।"
       }
     },
+{
+      "titles": {
+        "en": "Seaside Evening Love",
+        "hi": "सीसाइड इवनिंग लव"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079198/coupl_1_iqbunk.jpg",
+      "prompts": {
+        "en": "Create a similar elegant romantic couple portrait using the user's image at the seaside during blue hour. Use soft ocean waves, evening light, and a sophisticated romantic atmosphere. Preserve both identities, facial features, skin tones, and natural appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके ब्लू आवर के दौरान समुद्र किनारे इसी तरह का खूबसूरत रोमांटिक कपल पोर्ट्रेट बनाएं। हल्की समुद्री लहरें, शाम की रोशनी और शानदार रोमांटिक माहौल रखें। दोनों की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    
     {
       "titles": {
         "en": "Traditional Love",
@@ -471,29 +560,9 @@
         "en": "Create a similar cinematic soulmate couple poster using the user's image. Show the couple together in a romantic seaside setting with a bouquet of red roses and an emotional cinematic atmosphere. Preserve both identities, facial features, and appearance.",
         "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का सिनेमैटिक सोलमेट कपल पोस्टर बनाएं। कपल को लाल गुलाबों के गुलदस्ते के साथ रोमांटिक समुद्र किनारे के वातावरण में दिखाएं और भावनात्मक सिनेमैटिक माहौल रखें। दोनों की पहचान, चेहरे की विशेषताएं और रूप सुरक्षित रखें।"
       }
-    },
-    {
-      "titles": {
-        "en": "Neon Love",
-        "hi": "नियॉन लव"
-      },
-      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079199/coupl_2_fixo5i.jpg",
-      "prompts": {
-        "en": "Create a similar creative couple concept using the user's image, featuring a realistic person walking hand in hand with a glowing neon outline partner holding a bouquet of red roses on a wet city street at night. Preserve the user's identity and appearance.",
-        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का क्रिएटिव कपल कॉन्सेप्ट बनाएं, जिसमें यूज़र रात की गीली शहर की सड़क पर लाल गुलाबों का गुलदस्ता पकड़े चमकते नियॉन आउटलाइन पार्टनर के साथ हाथ पकड़कर चलता हुआ दिखे। यूज़र की पहचान और रूप सुरक्षित रखें।"
-      }
-    },
-    {
-      "titles": {
-        "en": "Seaside Evening Love",
-        "hi": "सीसाइड इवनिंग लव"
-      },
-      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079198/coupl_1_iqbunk.jpg",
-      "prompts": {
-        "en": "Create a similar elegant romantic couple portrait using the user's image at the seaside during blue hour. Use soft ocean waves, evening light, and a sophisticated romantic atmosphere. Preserve both identities, facial features, skin tones, and natural appearance.",
-        "hi": "यूज़र की फोटो का उपयोग करके ब्लू आवर के दौरान समुद्र किनारे इसी तरह का खूबसूरत रोमांटिक कपल पोर्ट्रेट बनाएं। हल्की समुद्री लहरें, शाम की रोशनी और शानदार रोमांटिक माहौल रखें। दोनों की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप सुरक्षित रखें।"
-      }
     }
+   
+    
   ]
 }
     
