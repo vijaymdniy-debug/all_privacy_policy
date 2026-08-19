@@ -353,6 +353,149 @@
     }
   
   ]
+},
+{
+  "id": "couple",
+  "emoji": "❤️",
+  "names": {
+    "en": "Couple",
+    "hi": "कपल"
+  },
+  "styles": [
+    {
+      "titles": {
+        "en": "Romantic Beach Walk",
+        "hi": "रोमांटिक बीच वॉक"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079207/coupl_12_kqufgq.jpg",
+      "prompts": {
+        "en": "Create a similar romantic couple photo using the user's image. Place the couple walking hand in hand along a misty beach with soft waves and dramatic green mountains in the background. Preserve both people's identities, facial features, skin tones, and natural appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की रोमांटिक कपल फोटो बनाएं। कपल को धुंध भरे समुद्र तट पर हाथ पकड़कर चलते हुए दिखाएं, पीछे हल्की लहरें और शानदार हरे पहाड़ हों। दोनों व्यक्तियों की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Couple Heart Pose",
+        "hi": "कपल हार्ट पोज़"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079206/coupl_11_hdagbx.jpg",
+      "prompts": {
+        "en": "Create a similar romantic couple selfie using the user's image, with the couple making a heart shape together with their hands against a bright blue sky. Preserve both identities, facial features, skin tones, and natural appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की रोमांटिक कपल सेल्फी बनाएं, जिसमें कपल नीले आसमान के सामने हाथों से हार्ट शेप बना रहा हो। दोनों की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Traditional Love",
+        "hi": "ट्रेडिशनल लव"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079206/coupl_10_w7nyja.jpg",
+      "prompts": {
+        "en": "Create a similar elegant Indian couple portrait using the user's image. Dress the woman in a beautiful red traditional saree with gold details and the man in a coordinated red traditional shirt. Add warm natural lighting and a romantic outdoor setting. Preserve both identities.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का खूबसूरत भारतीय कपल पोर्ट्रेट बनाएं। महिला को सुनहरे डिज़ाइन वाली सुंदर लाल पारंपरिक साड़ी और पुरुष को मैचिंग लाल पारंपरिक शर्ट पहनाएं। गर्म प्राकृतिक रोशनी और रोमांटिक आउटडोर वातावरण रखें। दोनों की पहचान सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Tropical Cliffside Love",
+        "hi": "ट्रॉपिकल क्लिफसाइड लव"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079205/coupl_9_hdngrp.jpg",
+      "prompts": {
+        "en": "Create a similar realistic couple travel selfie overlooking a spectacular tropical ocean, turquoise water, dramatic green cliffs, and a beautiful beach. Preserve both people's identities and appearance.",
+        "hi": "शानदार उष्णकटिबंधीय समुद्र, फ़िरोज़ा पानी, हरी-भरी चट्टानों और सुंदर समुद्र तट को देखते हुए इसी तरह की वास्तविक कपल ट्रैवल सेल्फी बनाएं। दोनों की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Royal Ethnic Couple",
+        "hi": "रॉयल एथनिक कपल"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079203/coupl_8_qkgstc.jpg",
+      "prompts": {
+        "en": "Create a similar elegant Indian couple portrait using the user's image. Dress the woman in a luxurious red and black lehenga with traditional jewelry and the man in a sophisticated black kurta. Use warm golden sunlight and a textured heritage wall background. Preserve both identities.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का खूबसूरत भारतीय कपल पोर्ट्रेट बनाएं। महिला को पारंपरिक आभूषणों के साथ शानदार लाल और काले लहंगे में और पुरुष को आकर्षक काले कुर्ते में दिखाएं। गर्म सुनहरी रोशनी और हेरिटेज वॉल बैकग्राउंड रखें। दोनों की पहचान सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Swiss Alps Romance",
+        "hi": "स्विस आल्प्स रोमांस"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079203/coupl_7_fqr2h7.jpg",
+      "prompts": {
+        "en": "Create a similar realistic romantic couple travel photo in the Swiss Alps, surrounded by colorful alpine wildflowers, dramatic snow-covered mountains, and a clear blue sky. Preserve both identities and natural appearance.",
+        "hi": "स्विस आल्प्स में रंग-बिरंगे अल्पाइन फूलों, शानदार बर्फीले पहाड़ों और साफ नीले आसमान से घिरी इसी तरह की वास्तविक रोमांटिक कपल ट्रैवल फोटो बनाएं। दोनों की पहचान और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Valentine's Dinner",
+        "hi": "वैलेंटाइन डिनर"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079202/coupl_6_f8fogh.jpg",
+      "prompts": {
+        "en": "Create a similar cozy Valentine's Day couple dinner scene using the user's image. Show the couple enjoying a romantic candlelit dinner with roses, warm fairy lights, and a beautiful city skyline through the window. Preserve both identities.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का आरामदायक वैलेंटाइन डे कपल डिनर सीन बनाएं। कपल को गुलाब, गर्म फेयरी लाइट्स, मोमबत्तियों और खिड़की के बाहर खूबसूरत सिटी स्काईलाइन के साथ रोमांटिक डिनर करते हुए दिखाएं। दोनों की पहचान सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Cozy City Date",
+        "hi": "कोज़ी सिटी डेट"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079201/coupl_5_gjtw8b.jpg",
+      "prompts": {
+        "en": "Create a similar warm and cozy couple date photo using the user's image. Place the couple together indoors with a city skyline, warm fairy lights, candles, roses, and an intimate dinner atmosphere. Preserve both identities and natural appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह की गर्मजोशी भरी और कोज़ी कपल डेट फोटो बनाएं। कपल को शहर की स्काईलाइन, फेयरी लाइट्स, मोमबत्तियों, गुलाब और इंटिमेट डिनर माहौल वाले कमरे में दिखाएं। दोनों की पहचान और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Tropical Beach Date",
+        "hi": "ट्रॉपिकल बीच डेट"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079200/coupl_4_d3de9c.jpg",
+      "prompts": {
+        "en": "Create a similar realistic romantic couple photo walking together on a beautiful tropical beach with turquoise water, limestone cliffs, palm trees, and warm natural sunlight. Preserve both identities and appearance.",
+        "hi": "फ़िरोज़ा पानी, चूना-पत्थर की चट्टानों, नारियल के पेड़ों और गर्म प्राकृतिक रोशनी वाले खूबसूरत उष्णकटिबंधीय समुद्र तट पर साथ चलते हुए इसी तरह की वास्तविक रोमांटिक कपल फोटो बनाएं। दोनों की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Soulmate Story",
+        "hi": "सोलमेट स्टोरी"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079199/coupl_3_wdhgbf.jpg",
+      "prompts": {
+        "en": "Create a similar cinematic soulmate couple poster using the user's image. Show the couple together in a romantic seaside setting with a bouquet of red roses and an emotional cinematic atmosphere. Preserve both identities, facial features, and appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का सिनेमैटिक सोलमेट कपल पोस्टर बनाएं। कपल को लाल गुलाबों के गुलदस्ते के साथ रोमांटिक समुद्र किनारे के वातावरण में दिखाएं और भावनात्मक सिनेमैटिक माहौल रखें। दोनों की पहचान, चेहरे की विशेषताएं और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Neon Love",
+        "hi": "नियॉन लव"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079199/coupl_2_fixo5i.jpg",
+      "prompts": {
+        "en": "Create a similar creative couple concept using the user's image, featuring a realistic person walking hand in hand with a glowing neon outline partner holding a bouquet of red roses on a wet city street at night. Preserve the user's identity and appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके इसी तरह का क्रिएटिव कपल कॉन्सेप्ट बनाएं, जिसमें यूज़र रात की गीली शहर की सड़क पर लाल गुलाबों का गुलदस्ता पकड़े चमकते नियॉन आउटलाइन पार्टनर के साथ हाथ पकड़कर चलता हुआ दिखे। यूज़र की पहचान और रूप सुरक्षित रखें।"
+      }
+    },
+    {
+      "titles": {
+        "en": "Seaside Evening Love",
+        "hi": "सीसाइड इवनिंग लव"
+      },
+      "image": "https://res.cloudinary.com/diz5la9q/image/upload/v1787079198/coupl_1_iqbunk.jpg",
+      "prompts": {
+        "en": "Create a similar elegant romantic couple portrait using the user's image at the seaside during blue hour. Use soft ocean waves, evening light, and a sophisticated romantic atmosphere. Preserve both identities, facial features, skin tones, and natural appearance.",
+        "hi": "यूज़र की फोटो का उपयोग करके ब्लू आवर के दौरान समुद्र किनारे इसी तरह का खूबसूरत रोमांटिक कपल पोर्ट्रेट बनाएं। हल्की समुद्री लहरें, शाम की रोशनी और शानदार रोमांटिक माहौल रखें। दोनों की पहचान, चेहरे की विशेषताएं, त्वचा का रंग और प्राकृतिक रूप सुरक्षित रखें।"
+      }
+    }
+  ]
 }
+    
   ]
 }
